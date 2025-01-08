@@ -9,7 +9,11 @@ Total five topics.
 
    -> Limit your wrong attempts.
 
-   -> Two Factor Authentication (2FA) (Knowledge, Possession, Inherence)
+   -> Two Factor Authentication (2FA) (Knowledge, Possession, Inherence).
+
+   -> Use Password Manager.
+
+   -> Use Single Sign On.
 3. Securing Data
 4. Securing Systems
 5. Securing Software
