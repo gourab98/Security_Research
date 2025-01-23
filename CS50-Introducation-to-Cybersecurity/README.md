@@ -1,7 +1,7 @@
-[Class Website](https://cs50.harvard.edu/cybersecurity/2023/weeks/0/)
+[Class Website](https://cs50.harvard.edu/cybersecurity/2023/)
 
 Total five topics.
-1. Securing Accounts
+0. Securing Accounts
 
    -> Use at least an 8-character password(Alphabets, Numbers, Special Characters), which decreases the (6,095,689,385,410,816)possibility of being compromised.
 
@@ -14,7 +14,10 @@ Total five topics.
    -> Use Password Manager.
 
    -> Use Single Sign On.
-3. Securing Data
-4. Securing Systems
-5. Securing Software
-6. Preserving Privacy
+1. Securing Data
+   -> Hashing(Password -> Hash) input→ f(input)→ output
+   -> Dictionary Attack, Brute-Force Attack, Rainbow Attack, 
+   
+3. Securing Systems
+4. Securing Software
+5. Preserving Privacy
