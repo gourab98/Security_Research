@@ -16,7 +16,7 @@ Total five topics.
    -> Use Single Sign On.
 1. Securing Data
    -> Hashing(Password -> Hash) input→ f(input)→ output
-   -> Dictionary Attack, Brute-Force Attack, Rainbow Attack, 
+   -> Dictionary Attack, Brute-Force Attack, Rainbow Tables Attack, Salting,      
    
 3. Securing Systems
 4. Securing Software
