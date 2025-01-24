@@ -1,6 +1,7 @@
 [Class Website](https://cs50.harvard.edu/cybersecurity/2023/)
 
 Total five topics.
+
 0. Securing Accounts
 
    -> Use at least an 8-character password(Alphabets, Numbers, Special Characters), which decreases the (6,095,689,385,410,816)possibility of being compromised.
