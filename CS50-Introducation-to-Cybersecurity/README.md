@@ -15,10 +15,23 @@ Total five topics.
    -> Use Password Manager.
 
    -> Use Single Sign On.
+
 1. Securing Data
-   -> Hashing(Password -> Hash) input→ f(input)→ output
-   -> Dictionary Attack, Brute-Force Attack, Rainbow Tables Attack, Salting,      
-   
+
+   -> Hashing (Password -> Hash) input→ f(input)→ output
+
+   -> Dictionary Attack, Brute-Force Attack, Rainbow Tables Attack, Salting.     
+
+   -> One-Way Hash Function / Cryptographic Hash Function (Arbitrary Length -> Fixed Length)
+
+   Cryptography:
+
+    -> Codes: (Encode: Plaintext -> Codetext) || (Decode: Codetext -> Plaintext)
+
+    -> Cipher: (Encrypt: Plaintext -> Ciphertext) || (Decrypt: Ciphertext -> Plaintext)
+      
+
+         
 3. Securing Systems
 4. Securing Software
 5. Preserving Privacy
