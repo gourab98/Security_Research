@@ -29,6 +29,13 @@ Total five topics.
     -> Codes: (Encode: Plaintext -> Codetext) || (Decode: Codetext -> Plaintext)
 
     -> Cipher: (Encrypt: Plaintext -> Ciphertext) || (Decrypt: Ciphertext -> Plaintext)
+
+    Secret-Key Cryptography:
+   
+      Symmetric-Key Encryption: Users use the exact same key. (Key+Plaintext → Ciphertext) Example: AES, Triple DES.
+
+      Public-Key Cryptography: 
+
       
 
          
