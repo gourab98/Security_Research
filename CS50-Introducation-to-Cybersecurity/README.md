@@ -67,6 +67,11 @@
 
    ### Secure Deletion: Full-Disk Encryption, Encryption at Rest
 
+## 2. Securing Systems
 
-## 2. Securing Software
-## 3. Preserving Privacy
+   ## Wifi: 
+
+   
+
+## 3. Securing Software
+## 4. Preserving Privacy
