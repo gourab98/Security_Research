@@ -32,11 +32,11 @@
 
    ### Secret-Key Cryptography:
    
-   Symmetric-Key Encryption: Users use the exact same key. (Key+Plaintext → Ciphertext) Example: AES, Triple DES.
+   Symmetric-Key Encryption: Users use the exact same key. (Key + Plaintext → Ciphertext) Example: AES, Triple DES.
 
    ### Public-Key Cryptography: 
 
-   Asymmetric-Key Encryption: Users use two keys. (Public Key+Plaintext → Ciphertext) && (Private Key+Ciphertext → Plaintext) Example: RSA, Diffie-Hellman, MQV.
+   Asymmetric-Key Encryption: Users use two keys. (Public Key + Plaintext → Ciphertext) && (Private Key + Ciphertext → Plaintext) Example: RSA, Diffie-Hellman, MQV.
 
    RSA:
    n = p . q ,
@@ -52,12 +52,21 @@
    
    ### Digital Signatures: 
    
-   Sign:(Message → Hash) -> (Private Key+Hash → Signature) &&
-   Verify:(Message → Hash) -> (Public Key+Signature → Hash) Hash == Hash
+   Sign:(Message → Hash) -> (Private Key + Hash → Signature) &&
+   Verify:(Message → Hash) -> (Public Key + Signature → Hash) Hash == Hash
    
    Example: DSA, ECDSA, RSA
+    
+   ### Passkeys\WebAuthn: 
    
+   SignIn Process: The device creates public and private keys and sends the public key to the website.
    
-## 3. Securing Systems
-## 4. Securing Software
-## 5. Preserving Privacy
+   Login Process: The website sent a challenge. The device was sent back to the website (Private Key + Challenge → Signature). The website processes and verifies you ( Public Key + Signature → Challenge).
+
+   ### Encryption in Transit → End-to-End Encryption
+
+   ### Secure Deletion: Full-Disk Encryption, Encryption at Rest
+
+
+## 2. Securing Software
+## 3. Preserving Privacy
