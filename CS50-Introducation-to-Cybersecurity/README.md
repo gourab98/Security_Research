@@ -69,7 +69,7 @@
 
 ## 2. Securing Systems
 
-   ### Wifi: 
+   ### Wi-fi, Wi-fi Protected Access, http, HTML, Machine-in-the-Middle Attacks, Packet Sniffing, Cookies, Session Hijacking, https(With Encryption), TLS(Improve version of SSL), Certificate Authority(CA)(X.509), SSL Stripping,  
 
    
 
