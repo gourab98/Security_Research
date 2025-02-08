@@ -69,9 +69,10 @@
 
 ## 2. Securing Systems
 
-   ### Wi-fi, Wi-Fi protected access, HTTP, HTML, Machine-in-the-Middle Attacks, Packet Sniffing, Cookies, Session Hijacking, HTTPS(With Encryption), TLS(Improved version of SSL), Certificate(X.509), Certificate Authority(CA), SSL Stripping, HSTS, VPN, SSH, Port, Port Scanning, Penetration Testing, Ethical Hacking, Firewall, IP Address, Deep Packet Inspection, Proxy, Malware, Virus, Worm, Botnet, Denial-of-Service(DoS) Attack, Distributed Denial-of-Service(DDoS) Attack, Antivirus, Automatic Updates, Zero-Day Attacks!
-
-   
+   ### Wi-Fi, Wi-Fi protected access, HTTP, HTML, Machine-in-the-Middle Attacks, Packet Sniffing, Cookies, Session Hijacking, HTTPS(With Encryption), TLS(Improved version of SSL), Certificate(X.509), Certificate Authority(CA), SSL Stripping, HSTS, VPN, SSH, Port, Port Scanning, Penetration Testing, Ethical Hacking, Firewall, IP Address, Deep Packet Inspection, Proxy, Malware, Virus, Worm, Botnet, Denial-of-Service(DoS) Attack, Distributed Denial-of-Service(DDoS) Attack, Antivirus, Automatic Updates, Zero-Day Attacks!
 
 ## 3. Securing Software
+
+   ### Phishing, Code Injection, Cross-Site Scripting(XSS), 
+
 ## 4. Preserving Privacy
