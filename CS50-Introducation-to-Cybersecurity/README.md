@@ -73,6 +73,6 @@
 
 ## 3. Securing Software
 
-   ### Phishing, Code Injection, Cross-Site Scripting(XSS), 
+   ### Phishing, Code Injection, Cross-Site Scripting(XSS), Reflected, Stored,   
 
 ## 4. Preserving Privacy
