@@ -73,7 +73,7 @@
 
 ## 3. Securing Software
 
-   ### Phishing, Code Injection, Cross-Site Scripting(XSS), Reflected, Stored,  
+   ### Phishing, Code Injection, Cross-Site Scripting(XSS), Reflected, Stored,   
    
    Character Escapes: &It; (<), &gt; (<), &amp; (&), &quot; ("), &apos; ('), ...
 
