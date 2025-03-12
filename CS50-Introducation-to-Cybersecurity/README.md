@@ -1,4 +1,4 @@
-[Class Website](https://cs50.harvard.edu/cybersecurity/2023/)
+ [Class Website](https://cs50.harvard.edu/cybersecurity/2023/)
 
 # Five topics:
 
@@ -75,9 +75,9 @@
 
    ### Phishing, Code Injection, Cross-Site Scripting(XSS), Reflected, Stored, Content-Security-Policy: script-src https://example.com, SQL Injection -> Prepared Statements, Command Injection, system, eval, Character Escapes: &lt; (<), &gt; (>), &amp; (&), &quot; ("), &apos; ('), ...
 
-   ### Developer Tools, Client-Side Validation, Server-Side Validation, Cross-Site Request Forgery(CSRF), GET, POST, Open Worldwide Application Security Project(OWASP)   
+   ### Developer Tools, Client-Side Validation, Server-Side Validation, Cross-Site Request Forgery(CSRF), GET, POST, Open Worldwide Application Security Project(OWASP),   
 
-   ### Arbitrary Code Execution(ACE), Remote Code Execution(RCE), Buffer Overflow, Stack Overflow,  
+   ### Arbitrary Code Execution(ACE), Remote Code Execution(RCE), Buffer Overflow, Stack Overflow, Cracking, Reverse Engineering, Malware Analysis, Open-Source Software, Closed-Source Software, App Stores, Package Managers, Operating Systems, Bug Bounty, Common Vulnerabilities and Exposures(CVE), Common Vulnerability Scoring System(CVSS), Exploit Prediction Scoring System(EPSS), Known Exploited Vulnerabilities Catalog(KEV). 
    
 
 ## 4. Preserving Privacy
