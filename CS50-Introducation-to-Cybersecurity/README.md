@@ -73,10 +73,11 @@
 
 ## 3. Securing Software
 
-   ### Phishing, Code Injection, Cross-Site Scripting(XSS), Reflected, Stored,   
-   
-   Character Escapes: &It; (<), &gt; (<), &amp; (&), &quot; ("), &apos; ('), ...
+   ### Phishing, Code Injection, Cross-Site Scripting(XSS), Reflected, Stored, Content-Security-Policy: script-src https://example.com, SQL Injection -> Prepared Statements, Command Injection, system, eval, Character Escapes: &lt; (<), &gt; (>), &amp; (&), &quot; ("), &apos; ('), ...
 
+   ### Developer Tools, Client-Side Validation, Server-Side Validation, Cross-Site Request Forgery(CSRF), GET, POST, Open Worldwide Application Security Project(OWASP)   
+
+   ### Arbitrary Code Execution(ACE), Remote Code Execution(RCE), Buffer Overflow, Stack Overflow,  
    
 
 ## 4. Preserving Privacy
