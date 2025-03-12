@@ -81,3 +81,5 @@
    
 
 ## 4. Preserving Privacy
+
+ ### Web Browsing History, Logs, HTTP Headers, Fingerprinting, Session Cookies, Tracking Cookies, Tracking Parameters, Third-Party Cookies, Private Browsing,  Supercookies, DNS, DNS over HTTPS(DoH), DNS over TLS (DoT), Virtual Private Network(VPN), Tor, Permissions, Location-Based Services.
