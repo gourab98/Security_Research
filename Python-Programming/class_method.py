@@ -7,4 +7,8 @@ class dog:
 
     @classmethod
     def total_dogs(cls):
-        print()
+        print("There are {} dogs".format(len(cls.all_dogs)))
+
+dog("Abul")
+dog("tomny")
+dog.total_dogs()
